@@ -123,11 +123,11 @@ XGBoost Regressor
 Gradient Boosting Regressor
 Model deployment using Flask or Streamlit
 👨‍💻 Author
-kunal kale
+Aniket Andhale
 
 B.Tech Artificial Intelligence & Data Science
 
 Machine Learning Enthusiast
 
 ⭐ If you found this project useful
-Please consider giving this repository a ⭐ on GitHub.
+Please consider giving this repository a ⭐ on GitHub
